@@ -1,0 +1,147 @@
+{
+    "blogs": [
+      {
+        "id": "b1",
+        "title": "Introduction à la programmation en Java",
+        "author": "Eber Villegas",
+        "date": "2024-10-01",
+        "content": "Dans cet article, nous allons explorer les bases de la programmation en Java."
+      },
+      {
+        "id": "b2",
+        "title": "Spring Boot pour les débutants",
+        "author": "Eber Villegas",
+        "date": "2024-10-02",
+        "content": "Spring Boot facilite le développement d'applications Java robustes et évolutives."
+      },
+      {
+        "id": "b3",
+        "title": "Sécurité avec JWT dans les API REST",
+        "author": "Eber Villegas",
+        "date": "2024-10-03",
+        "content": "JSON Web Tokens (JWT) permettent une authentification sécurisée dans les applications web modernes."
+      },
+      {
+        "id": "b4",
+        "title": "Comprendre JPA et Hibernate",
+        "author": "Eber Villegas",
+        "date": "2024-10-04",
+        "content": "Cet article explique comment utiliser JPA et Hibernate pour la gestion de la persistance des données."
+      },
+      {
+        "id": "b5",
+        "title": "Guide pour créer une API REST avec Spring",
+        "author": "Eber Villegas",
+        "date": "2024-10-05",
+        "content": "Un guide étape par étape pour développer des API REST robustes en utilisant Spring Framework."
+      },
+      {
+        "id": "b6",
+        "title": "Tests unitaires en Java avec JUnit",
+        "author": "Eber Villegas",
+        "date": "2024-10-06",
+        "content": "Les tests unitaires sont essentiels pour garantir la qualité du code. Cet article couvre les bases de JUnit."
+      },
+      {
+        "id": "b7",
+        "title": "Optimisation des performances dans les applications Java",
+        "author": "Eber Villegas",
+        "date": "2024-10-07",
+        "content": "Découvrez des techniques pour améliorer les performances de vos applications Java."
+      },
+      {
+        "id": "14fe",
+        "title": "Mejorana: El chip cuántico",
+        "author": "Microsoft",
+        "content": "Este chip cuenta con 8 qubits, los componentes básicos de la computación cuántica y su tamaño es de apenas el de una nota adhesiva, pero con una capacidad impresionante, según calcula, podría llegar a albergar 1 millón de ellos.",
+        "date": "2025-02-28"
+      },
+      {
+        "id": "21d1",
+        "title": "Mejorana: El chip cuántico",
+        "author": "Microsoft",
+        "content": "Este chip cuenta con 8 qubits, los componentes básicos de la computación cuántica y su tamaño es de apenas el de una nota adhesiva, pero con una capacidad impresionante, según calcula, podría llegar a albergar 1 millón de ellos.",
+        "date": "2025-02-28"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1",
+        "blogId": "b1",
+        "date": "2024-10-01",
+        "content": "Très bon article sur Java !"
+      },
+      {
+        "id": "c2",
+        "blogId": "b1",
+        "date": "2024-10-02",
+        "content": "J’aimerais voir plus d’exemples pratiques."
+      },
+      {
+        "id": "c3",
+        "blogId": "b2",
+        "date": "2024-10-02",
+        "content": "Spring Boot semble intéressant, merci pour l’introduction."
+      },
+      {
+        "id": "c4",
+        "blogId": "b3",
+        "date": "2024-10-03",
+        "content": "La sécurité est essentielle. Bon contenu !"
+      },
+      {
+        "id": "c5",
+        "blogId": "b3",
+        "date": "2024-10-04",
+        "content": "J’aimerais plus de détails sur la mise en œuvre de JWT."
+      },
+      {
+        "id": "c6",
+        "blogId": "b4",
+        "date": "2024-10-04",
+        "content": "JPA et Hibernate peuvent être compliqués, mais cet article aide beaucoup."
+      },
+      {
+        "id": "c7",
+        "blogId": "b5",
+        "date": "2024-10-05",
+        "content": "Excellent guide pour débutants !"
+      },
+      {
+        "id": "c8",
+        "blogId": "b6",
+        "date": "2024-10-06",
+        "content": "Les tests unitaires sont sous-estimés, bon rappel."
+      },
+      {
+        "id": "c9",
+        "blogId": "b6",
+        "date": "2024-10-07",
+        "content": "Avez-vous des exemples pour JUnit 5 ?"
+      },
+      {
+        "id": "c10",
+        "blogId": "b7",
+        "date": "2024-10-07",
+        "content": "L’optimisation des performances est un sujet clé. Merci pour ces conseils."
+      },
+      {
+        "id": "c2a4",
+        "blogId": "b2",
+        "content": "REACT Bébé",
+        "date": "2025-03-28"
+      },
+      {
+        "id": "dd69",
+        "blogId": "b2",
+        "content": "Comentario Nuevo",
+        "date": "2025-03-28"
+      },
+      {
+        "id": "1e8e",
+        "blogId": "14fe",
+        "content": "Holi",
+        "date": "2025-03-28"
+      }
+    ]
+  }
